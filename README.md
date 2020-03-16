@@ -5,7 +5,8 @@
 
 #### _A practice HTML exercise in proper spacing, 3/16/2020_
 
-#### By _**Kelly Eidsvik**_ Original code by _**Ellen Klehman**_
+#### By _**Kelly Eidsvik**_ 
+#### Original code by _**Ellen Klehman**_
 
 ## Description
 
@@ -32,4 +33,4 @@ _HTML, VSCode, and Git._
 
 ## License
 
-Copyright (c) 2020 ** Ellen Klehman & Kelly Eidsvik**_
+Copyright (c) 2020 **_Ellen Klehman & Kelly Eidsvik_**
